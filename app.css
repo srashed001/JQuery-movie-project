@@ -1,0 +1,10 @@
+.movie {
+    border: 10px solid black; 
+    width: 200px; 
+    height: 200px;
+    background-color: aquamarine;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
